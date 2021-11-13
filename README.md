@@ -1,0 +1,2 @@
+# textnur
+nurdaulet
